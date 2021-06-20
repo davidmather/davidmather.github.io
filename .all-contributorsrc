@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "davidmather",
+      "name": "David Mather",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13389155?v=4",
+      "profile": "https://github.com/davidmather",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "davidmather",
+  "projectOwner": "DavidMather",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
