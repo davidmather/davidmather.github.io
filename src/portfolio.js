@@ -1358,7 +1358,7 @@ const experience = {
       experiences: [
         {
           title: "Undergraduate Intern Technical",
-          company: "Ericsson",
+          company: "McAfee",
           company_url: "https://www.mcafee.com/",
           logo_path: "Mcafee.png",
           duration: "Jan 2019 - Sep 2019",
